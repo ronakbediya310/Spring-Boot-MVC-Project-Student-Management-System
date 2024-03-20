@@ -11,7 +11,7 @@ This project implements a robust backend system using the Spring Boot framework 
 - **RESTful API**: Enables seamless communication between client and server, adhering to modern web standards.
 - **Data Management**: Provides functionalities for CRUD operations, ensuring smooth handling of student data.
 - **Authentication**: Secure endpoints with user authentication to restrict unauthorized access.
-- 
+  
 ## Getting Started
 
 ### Prerequisites
